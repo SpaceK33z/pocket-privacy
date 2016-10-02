@@ -4,4 +4,4 @@ This is a Chrome extension for [Pocket](https://getpocket.com). I really like Po
 
 This is heavily inspired by [pocket-mini](https://github.com/evmar/pocket-mini), but it does not need an access token for accessing Pocket.
 
-This extension is available one the [**Chrome Web Store**](https://chrome.google.com/webstore/detail/save-to-pocket-privacy-ed/foggicgimbemdljifmnlandgnknipibf).
+This extension is available on the [**Chrome Web Store**](https://chrome.google.com/webstore/detail/save-to-pocket-privacy-ed/foggicgimbemdljifmnlandgnknipibf).
