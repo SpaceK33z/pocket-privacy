@@ -1,7 +1,7 @@
 const POCKET_SAVE_URL = 'https://getpocket.com/save?url=';
 
 function saveUrl(rawUrl) {
-	const url = encodeURI(rawUrl);
+	const url = encodeURIComponent(rawUrl);
 	chrome.tabs.create({
 		url: `${POCKET_SAVE_URL}${url}`,
 	});
